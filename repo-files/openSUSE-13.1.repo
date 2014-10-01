@@ -1,0 +1,8 @@
+[openSUSE_13.1]
+name=openSUSE
+type=rpm-md
+#baseurl=http://download.opensuse.org/repositories/openSUSE:/13.1:/Live/standard/
+baseurl=http://download.opensuse.org/distribution/13.1/repo/oss/suse
+gpgcheck=1
+gpgkey=http://download.opensuse.org/distribution/13.1/repo/oss/suse/repodata/repomd.xml.key
+enabled=1
